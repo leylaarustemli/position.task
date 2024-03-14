@@ -1,0 +1,107 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url(https://startbootstrap.github.io/startbootstrap-business-casual/assets/img/bg.jpg);
+}
+
+.bootstrap{
+    color: rgb(230 167 86);
+    text-align: center;
+    font-size: large;
+    margin-top: 20px;
+    text-transform: capitalize;
+}
+
+.business{
+    color: aliceblue;
+    text-transform: capitalize;
+    letter-spacing: 10px;
+    text-align: center;
+}
+
+.kecid{
+    border: 1px solid rgb(47 23 15 / 90%);
+    color: white;
+    background-color: rgb(47 23 15 / 90%);
+   
+    margin-top: 40px;
+}
+
+.navbar-list{
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+    padding: 20px 0px; 
+}
+
+ul{
+    list-style-type: none;
+}
+
+.nav{
+    text-align: center;
+    color: white;
+   
+}
+
+main{
+    position: relative;
+    }
+    a{
+       text-decoration: none;
+       color: white;
+    }
+
+    .section{
+        position: relative;
+    }
+
+    .sekil{
+        width: 1250px;
+        height: 600px;
+        margin-top: 100px;
+        margin-left: 120px;
+        margin-right: 80px;
+      
+       
+
+    }
+
+    .box{
+        border: 1px solid #f6e1c5;
+        width: 1000px;
+        height: 200px;
+background-color: #f6e1c5;
+position: absolute;
+margin-left: 290px;
+text-align: center;
+padding: 20px 0px;
+bottom: -80px;
+
+
+
+
+
+    }
+
+    .metn{
+        line-height: 25px;
+
+    }
+
+    .end-footer{
+        background-color: rgb(47 23 15 / 90%);
+        margin-top: 100px;
+        text-align: center;
+        font-size: 15px;
+        padding: 10px 0px;
+    }
+
+    .name{
+        color: white;
+    }
