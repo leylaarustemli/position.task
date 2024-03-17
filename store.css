@@ -1,0 +1,78 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url(https://startbootstrap.github.io/startbootstrap-business-casual/assets/img/bg.jpg);
+}
+
+.bootstrap{
+    color: rgb(230 167 86);
+    text-align: center;
+    font-size: large;
+    margin-top: 20px;
+    text-transform: capitalize;
+    font-size: 30px;
+}
+
+.business{
+    color: aliceblue;
+    text-transform: capitalize;
+    letter-spacing: 10px;
+    text-align: center;
+    gap: 20px;
+    font-size: 30px;
+}
+
+.kecid{
+    border: 1px solid rgb(47 23 15 / 90%);
+    color: white;
+    background-color: rgb(47 23 15 / 90%);
+    margin-top: 40px;
+}
+.nav{
+    text-align: center;
+    color: white;
+    
+   
+}
+.navbar-list{
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+    padding: 20px 0px; 
+    list-style-type: none;
+    
+}
+
+a{
+    text-decoration: none;
+    color: white;
+ }
+
+ 
+
+ .section-one{
+    background-color:  #f6e1c5;
+    width: 600px;
+    margin-top: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+
+ .background ul li{
+  
+    display: flex;
+    justify-content: space-between;
+    width: 400px;
+
+ }
+
+ .bacground ul li span{
+    display: inline-block;
+
+ }
